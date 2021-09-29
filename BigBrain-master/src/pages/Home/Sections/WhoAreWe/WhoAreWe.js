@@ -15,7 +15,7 @@ const WhoAreWe = () => {
               isn't the project for you, unless you are lucky enough to mint a
               smooth brain. Big Brains are 7777 unique and randomly generated
               masterpieces modeled after the big brains us smooth brains aspire
-              to be like big - brain?
+              to be like big - brain 🧠?
               <br />
               <br />
               Big Brain Gang is created to resemble who Big Brains are -

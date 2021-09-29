@@ -9,7 +9,7 @@ export const faqData = [
   },
   {
     question: "How do I get a BigBrains?",
-    text: "Well you can start by hitting the books... Big Brains will be available to mint at bigbrainnft.io Launch dates will be announced in our Twitter and Discord",
+    text: "Well you can start by hitting the books... Big Brains will be available to mint at BigBrainNFT.io Launch dates will be announced in our Twitter and Discord",
   },
   {
     question: "What are BigBrains?",
