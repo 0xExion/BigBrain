@@ -9,11 +9,11 @@ export const faqData = [
   },
   {
     question: "How do I get a BigBrains?",
-    text: "Well you can start by hitting the books... Big Brains will be available to mint at bigbrainnft.com Launch dates will be announced in our Twitter and Discord",
+    text: "Well you can start by hitting the books... Big Brains will be available to mint at bigbrainnft.io Launch dates will be announced in our Twitter and Discord",
   },
   {
-    question: "What is BigBrains?",
-    text: "Big Brain NFTs is made up of 7,777 unique Big Brains on the Ethereum Blockchain. Big Brain is a community-oriented circle of metaverse elites who happen to have themselves a big ol' brain. Can't help it",
+    question: "What are BigBrains?",
+    text: "Big Brain NFTs are 7,777 unique Big Brains on the Ethereum Blockchain. Big Brain is a community-oriented circle of metaverse elites who happen to have themselves a big ol' brain. Can't help it",
   },
   {
     question: "What is the future of BigBrains?",
