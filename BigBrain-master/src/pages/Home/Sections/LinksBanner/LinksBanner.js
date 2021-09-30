@@ -8,7 +8,7 @@ const LinksBanner = () => {
       <div className={classes.iconsFlex}>
         <div>
           <a
-            href="https://discord.gg/ZJtQJqSu"
+            href="https://discord.gg/CJ8xsn2EeX"
             target="_blank"
             rel="noreferrer"
           >

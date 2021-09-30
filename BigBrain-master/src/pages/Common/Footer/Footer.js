@@ -9,7 +9,7 @@ const Footer = () => {
           <div className={classes.flex}>
             <div>
               <a
-                href="https://discord.gg/ZJtQJqSu"
+                href="https://discord.gg/CJ8xsn2EeX"
                 target="_blank"
                 rel="noreferrer"
               >

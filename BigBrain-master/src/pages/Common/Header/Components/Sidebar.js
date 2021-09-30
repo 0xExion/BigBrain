@@ -88,7 +88,7 @@ const Sidebar = () => {
         <div className={classes.sideContainer}>
           <a
             className={classes.anchorS}
-            href="https://discord.gg/ZJtQJqSu"
+            href="https://discord.gg/CJ8xsn2EeX"
             target="_blank"
             rel="noreferrer"
           >
