@@ -121,7 +121,7 @@ const Sidebar = () => {
     <div>
       <div onClick={toggleDrawer(true)}>
         <IconContext.Provider
-          value={{ size: "24px", className: classes.hamIcon }}
+          value={{ size: "24px", className: classes.hamIcon, style: { verticalAlign: 'right'} }}
         >
           <GiHamburgerMenu />
         </IconContext.Provider>

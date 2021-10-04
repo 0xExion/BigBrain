@@ -1,8 +1,11 @@
 import classes from "./Roadmap.module.css";
 import clsx from "clsx";
+import Fade from 'react-reveal/Fade';
+
 const Roadmap = () => {
   return (
     <div>
+    <Fade bottom cascade duration={3000}>
       <div className={classes.roadMain}>
         <div className={classes.textContainer}>
           <h2 className={classes.mainHeading}>Roadmap</h2>
@@ -84,7 +87,9 @@ const Roadmap = () => {
           </ul>
         </div>
       </div>
+      </Fade>
     </div>
+    
   );
 };
 export default Roadmap;
