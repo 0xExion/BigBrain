@@ -108,6 +108,7 @@ sidebar css */
   .hamIcon {
     display: block;
     cursor: pointer;
+    float: right;
   }
   .cartIcon {
     display: none;

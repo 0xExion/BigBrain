@@ -5,7 +5,7 @@ import Fade from 'react-reveal/Fade';
 const Roadmap = () => {
   return (
     <div>
-    <Fade bottom cascade duration={3000}>
+    <Fade bottom cascade duration={6000}>
       <div className={classes.roadMain}>
         <div className={classes.textContainer}>
           <h2 className={classes.mainHeading}>Roadmap</h2>
