@@ -1,11 +1,11 @@
 export const faqData = [
   {
     question: "When will minting begin?",
-    text: "TBA",
+    text: "Presale Mint - 18th of October. Launch Mint - 19th of October.",
   },
   {
     question: "How many Big Brains can I mint?",
-    text: "Up to 10 per transaction and no limit per wallet",
+    text: "Up to 10 per transaction and no limit per wallet during Launch Mint.",
   },
   {
     question: "How do I get a Big Brains?",
