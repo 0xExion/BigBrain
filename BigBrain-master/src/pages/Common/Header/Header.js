@@ -128,7 +128,7 @@ const Header = () => {
             <MenuItem onClick={handleClose}>
               <a
                 className={classes.anchor}
-                href="https://discord.gg/CJ8xsn2EeX"
+                href="https://discord.gg/cr8QpmnHdM"
                 target="_blank"
                 rel="noreferrer"
               >

@@ -1,14 +1,14 @@
 export const faqData = [
   {
     question: "When will minting begin?",
-    text: "Presale Mint - 18th of October. Launch Mint - 19th of October.",
+    text: "Presale Mint - 8PM Central 18th of October. Launch Mint - 8PM Central 19th of October.",
   },
   {
     question: "How many Big Brains can I mint?",
     text: "Up to 10 per transaction and no limit per wallet during Launch Mint.",
   },
   {
-    question: "How do I get a Big Brains?",
+    question: "How do I get a Big Brain?",
     text: "Well you can start by hitting the books... Big Brains will be available to mint at BigBrainNFT.io Launch dates will be announced in our Twitter and Discord",
   },
   {
