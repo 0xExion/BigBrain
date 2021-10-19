@@ -11,10 +11,10 @@ const Hero = () => {
         <h2>Presale Mint - 8PM Central 18th of October</h2> 
         <h2>Launch Mint - 8PM Central 19th of October</h2>
         <Button id="button" variant="contained" className={classes.availableButton}>
-          Minting Soon
+          Mint here
         </Button>
         <Script type="text/javascript">
-        document.getElementById("myButton").onclick = function () {
+        document.getElementById("button").onclick = function () {
         location.href = "https://bbg-mint.vercel.app/";
     };
     </Script>
