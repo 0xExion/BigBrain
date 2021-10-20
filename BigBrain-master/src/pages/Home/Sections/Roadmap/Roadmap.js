@@ -52,7 +52,7 @@ const Roadmap = () => {
                     <h2>60%</h2>
                     <p>
                       {" "}
-                      At 60% sold, we will provide a free MERCH DROP to holders.
+                      At 60% sold, we will provide a free Big Brain MERCH DROP to holders.
                     </p>
                   </div>
                 </div>
@@ -65,7 +65,7 @@ const Roadmap = () => {
                     <h2>80%</h2>
                     <p>
                       {" "}
-                      At 80% sold, there will be a CLAIMABLE GIFT for all holders that will serve utility in Season 2.
+                      At 80% sold, there will be a CLAIMABLE GIFT for all holders that will serve gaming utility in Season 2.
                     </p>
                   </div>
                 </div>
@@ -78,7 +78,7 @@ const Roadmap = () => {
                     <h2>100%</h2>
                     <p>
                       {" "}
-                      The Big Brain Season Finale will give a taste of what we have planned for in Season 2.
+                      The Big Brain Season Finale will give a taste of the blockchain gaming library for Season 2.
                     </p>
                   </div>
                 </div>
