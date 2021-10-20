@@ -9,7 +9,7 @@ const WhoAreWe = () => {
       <div className={classes.container}>
         <div className={classes.flex}>
           <div className={classes.flex1}>
-            <h1>What Are Big Brains?</h1>
+            <h1>Who Are Big Brains?</h1>
             <p>
               If you have to ask yourself what a Big Brain is this probably
               isn't the project for you, unless you are lucky enough to mint a
