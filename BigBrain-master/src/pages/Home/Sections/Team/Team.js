@@ -14,7 +14,7 @@ const data = [
   },
   {
     name: "FlippaNft",
-    text: "Degree in Finance with experience in multi level business development. Worked with startups and participated in business consulting. Started NFT trading this last year and found a passion for starting up his own.",
+    text: "Degree in Finance with experience in multi level business development. Worked with startups and participated in business consulting. Previously FAANG. Started NFT trading this last year and found a passion for starting up their own.",
     image: member2,
     twitter: "https://twitter.com/FlippaNft",
   },
